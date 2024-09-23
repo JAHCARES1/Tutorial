@@ -1,0 +1,6 @@
+function Greetings(name)
+{
+  return 'Hello!, how are you?' +' '+ name
+}
+let greeting1 = Greetings('Izzycool')
+console.log(greeting1)
